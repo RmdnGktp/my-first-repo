@@ -1,0 +1,44 @@
+[33mcommit 7a038e02ba5804fac0a2da59f10ec41d7950c119[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: RmdnGktp <ramadanclub@gmail.com>
+Date:   Tue Apr 8 13:27:29 2025 +0200
+
+    delete test2
+
+[33mcommit f6cb700d3c705cd34b3fcc1911f43201b812b278[m
+Author: RmdnGktp <ramadanclub@gmail.com>
+Date:   Tue Apr 8 13:23:52 2025 +0200
+
+    add
+
+[33mcommit 2ddce8f1be50b7c80ddca4208e595721c133f984[m
+Merge: e139cea 6a6f2ff
+Author: Ramadan <ramadanclub@gmail.com>
+Date:   Mon Apr 7 21:40:48 2025 +0200
+
+    Merge pull request #1 from RmdnGktp/feature/lesson
+    
+    Add test2.txt
+
+[33mcommit 6a6f2ff5923c60a88e39171500af7ebf8fa60db3[m[33m ([m[1;31morigin/feature/lesson[m[33m, [m[1;31morigin/Ramadan[m[33m, [m[1;32mfeature/lesson[m[33m, [m[1;32mRamadan[m[33m)[m
+Author: RmdnGktp <ramadanclub@gmail.com>
+Date:   Mon Apr 7 21:35:15 2025 +0200
+
+    Add test2.txt
+
+[33mcommit e139cea88f9102d04a33b244d640828ae166fe98[m
+Author: Ramadan <ramadanclub@gmail.com>
+Date:   Mon Apr 7 21:25:32 2025 +0200
+
+    Update test.txt
+
+[33mcommit 62243585c205c101d12e69ecabcfed5f740fda93[m
+Author: RmdnGktp <ramadanclub@gmail.com>
+Date:   Mon Apr 7 21:15:19 2025 +0200
+
+    Adding a new file for testing
+
+[33mcommit ac32cd0851ceb390d34afdba3b00b64aaadca923[m
+Author: Ramadan <ramadanclub@gmail.com>
+Date:   Mon Apr 7 20:40:19 2025 +0200
+
+    Initial commit
